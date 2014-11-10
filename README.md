@@ -1,4 +1,7 @@
 QADS
 ====
 
-Query Based intrusion detection system
+Query based  Anomaly (intrusion) Detection System
+
+==== 
+This system works with facebook osQuery Framework
